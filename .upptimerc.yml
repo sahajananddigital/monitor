@@ -8,7 +8,9 @@ sites:
   - name: Aquapex Ro
     url: https://aquapexro.in
   - name: Clear Books Kpo
-    url: https://clearbookskpo.com/
+    url: https://clearbookskpo.com
+  - name: Aquafinest Ro ( Gajanan Praskar )
+    url: https://aquafinestro.com
 
 assignees: # Users to assign downtime issues (optional)
   - vanpariyar
