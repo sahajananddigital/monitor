@@ -11,6 +11,8 @@ sites:
     url: https://clearbookskpo.com
   - name: Aquafinest Ro ( Gajanan Praskar )
     url: https://aquafinestro.com
+  - name: Evon Stone Ceramics ( USA )
+    url: https://evonceramics.com
 
 assignees: # Users to assign downtime issues (optional)
   - vanpariyar
