@@ -84,19 +84,19 @@
     "url": "https://evonceramics.com",
     "icon": "https://favicons.githubusercontent.com/evonceramics.com",
     "slug": "evon-stone-ceramics-usa",
-    "status": "down",
-    "uptime": "98.66%",
-    "uptimeDay": "98.45%",
-    "uptimeWeek": "98.66%",
-    "uptimeMonth": "98.66%",
-    "uptimeYear": "98.66%",
-    "time": 3988,
-    "timeDay": 4208,
-    "timeWeek": 3988,
-    "timeMonth": 3988,
-    "timeYear": 3988,
+    "status": "up",
+    "uptime": "96.43%",
+    "uptimeDay": "95.79%",
+    "uptimeWeek": "96.43%",
+    "uptimeMonth": "96.43%",
+    "uptimeYear": "96.43%",
+    "time": 3076,
+    "timeDay": 2919,
+    "timeWeek": 3076,
+    "timeMonth": 3076,
+    "timeYear": 3076,
     "dailyMinutesDown": {
-      "2022-05-25": 22
+      "2022-05-25": 61
     }
   }
 ]
