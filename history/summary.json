@@ -75,19 +75,19 @@
     "url": "https://aquafinestro.com",
     "icon": "https://favicons.githubusercontent.com/aquafinestro.com",
     "slug": "aquafinest-ro-gajanan-praskar",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1783,
-    "timeDay": 1781,
-    "timeWeek": 1809,
-    "timeMonth": 1834,
-    "timeYear": 1783,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 1788,
+    "timeDay": 1879,
+    "timeWeek": 1830,
+    "timeMonth": 1839,
+    "timeYear": 1788,
     "dailyMinutesDown": {
-      "2022-06-26": 0
+      "2022-06-26": 7
     }
   },
   {
