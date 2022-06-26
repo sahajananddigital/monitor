@@ -75,9 +75,9 @@
     "url": "https://aquafinestro.com",
     "icon": "https://favicons.githubusercontent.com/aquafinestro.com",
     "slug": "aquafinest-ro-gajanan-praskar",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -86,7 +86,9 @@
     "timeWeek": 1809,
     "timeMonth": 1834,
     "timeYear": 1783,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-26": 0
+    }
   },
   {
     "name": "Evon Stone Ceramics ( USA )",
@@ -94,11 +96,11 @@
     "icon": "https://favicons.githubusercontent.com/evonceramics.com",
     "slug": "evon-stone-ceramics-usa",
     "status": "up",
-    "uptime": "98.25%",
+    "uptime": "98.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.77%",
     "uptimeMonth": "98.27%",
-    "uptimeYear": "98.25%",
+    "uptimeYear": "98.29%",
     "time": 2137,
     "timeDay": 478,
     "timeWeek": 1564,
