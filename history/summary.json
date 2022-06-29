@@ -96,7 +96,7 @@
     "url": "https://evonceramics.com",
     "icon": "https://favicons.githubusercontent.com/evonceramics.com",
     "slug": "evon-stone-ceramics-usa",
-    "status": "up",
+    "status": "down",
     "uptime": "98.28%",
     "uptimeDay": "96.23%",
     "uptimeWeek": "97.53%",
@@ -105,7 +105,7 @@
     "time": 2127,
     "timeDay": 2132,
     "timeWeek": 1853,
-    "timeMonth": 2117,
+    "timeMonth": 2027,
     "timeYear": 2127,
     "dailyMinutesDown": {
       "2022-06-29": 54,
